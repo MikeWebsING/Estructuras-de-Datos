@@ -1,4 +1,4 @@
-# 📊 Estructuras de Datos - Semestre 3
+# 📊 Estructuras de Datos
 ## 🎯 Repositorio de Submódulos - Implementaciones en Java
 
 <div align="center">
