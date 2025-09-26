@@ -1,0 +1,63 @@
+[submodule "arreglo_lineal_inventario"]
+	path = arreglo_lineal_inventario
+	url = https://github.com/MikeWebsING/arreglo_lineal_inventario.git
+[submodule "recursion_vs_iteracion"]
+	path = recursion_vs_iteracion
+	url = https://github.com/MikeWebsING/recursion_vs_iteracion.git
+[submodule "pila_stack_arreglos"]
+	path = pila_stack_arreglos
+	url = https://github.com/MikeWebsING/pila_stack_arreglos.git
+[submodule "pila_listas_enlazadas"]
+	path = pila_listas_enlazadas
+	url = https://github.com/MikeWebsING/pila_listas_enlazadas.git
+[submodule "cola_arreglos"]
+	path = cola_arreglos
+	url = https://github.com/MikeWebsING/cola_arreglos.git
+[submodule "cola_listas_enlazadas"]
+	path = cola_listas_enlazadas
+	url = https://github.com/MikeWebsING/cola_listas_enlazadas.git
+[submodule "cola_circular_arreglos"]
+	path = cola_circular_arreglos
+	url = https://github.com/MikeWebsING/cola_circular_arreglos.git
+[submodule "cola_circular_listas_enlazadas"]
+	path = cola_circular_listas_enlazadas
+	url = https://github.com/MikeWebsING/cola_circular_listas_enlazadas.git
+[submodule "bicola_salida_restringida"]
+	path = bicola_salida_restringida
+	url = https://github.com/MikeWebsING/bicola_salida_restringida.git
+[submodule "bicola_entrada_restringida"]
+	path = bicola_entrada_restringida
+	url = https://github.com/MikeWebsING/bicola_entrada_restringida.git
+[submodule "bicola_listas_salida_restringida"]
+	path = bicola_listas_salida_restringida
+	url = https://github.com/MikeWebsING/bicola_listas_salida_restringida.git
+[submodule "bicola_circular_arreglos"]
+	path = bicola_circular_arreglos
+	url = https://github.com/MikeWebsING/bicola_circular_arreglos.git
+[submodule "bicola_circular_entrada_restringida"]
+	path = bicola_circular_entrada_restringida
+	url = https://github.com/MikeWebsING/bicola_circular_entrada_restringida.git
+[submodule "lista_simplemente_enlazada"]
+	path = lista_simplemente_enlazada
+	url = https://github.com/MikeWebsING/lista_simplemente_enlazada.git
+[submodule "lista_doblemente_enlazada_arreglos"]
+	path = lista_doblemente_enlazada_arreglos
+	url = https://github.com/MikeWebsING/lista_doblemente_enlazada_arreglos.git
+[submodule "lista_doblemente_enlazada_circular"]
+	path = lista_doblemente_enlazada_circular
+	url = https://github.com/MikeWebsING/lista_doblemente_enlazada_circular.git
+[submodule "lista_doblemente_enlazada_circular_arreglos"]
+	path = lista_doblemente_enlazada_circular_arreglos
+	url = https://github.com/MikeWebsING/lista_doblemente_enlazada_circular_arreglos.git
+[submodule "lista_doblemente_enlazada_circular_listas"]
+	path = lista_doblemente_enlazada_circular_listas
+	url = https://github.com/MikeWebsING/lista_doblemente_enlazada_circular_listas.git
+[submodule "inventario_arreglos_dinamicos"]
+	path = inventario_arreglos_dinamicos
+	url = https://github.com/MikeWebsING/inventario_arreglos_dinamicos.git
+[submodule "algoritmos_busqueda_comparacion"]
+	path = algoritmos_busqueda_comparacion
+	url = https://github.com/MikeWebsING/algoritmos_busqueda_comparacion.git
+[submodule "arbol_binario_busqueda"]
+	path = arbol_binario_busqueda
+	url = https://github.com/MikeWebsING/arbol_binario_busqueda.git
